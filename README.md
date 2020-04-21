@@ -85,6 +85,3 @@ X-Prev-Page: 2
 X-Offset: 10
 ```
 
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/teamon/tesla.
